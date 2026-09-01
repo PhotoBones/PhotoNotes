@@ -8,7 +8,7 @@ Languages: **Spanish** and **English**.
 
 ## Download
 
-Get the latest signed APK from **[Releases](https://github.com/PLACEHOLDER_USER/photonotes/releases)**.
+Get the latest signed APK from **[Releases](https://github.com/PhotoBones/PhotoNotes/releases/latest)**.
 
 | Version | Date | SHA-256 |
 |---------|------|---------|
