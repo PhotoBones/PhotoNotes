@@ -10,3 +10,5 @@
 3. Open from Downloads and allow install if prompted.
 
 **SHA-256:** `9646f0ac22a159ce211d880f8d472a02bbe2821bf37278463e2077b609e5cb91`
+
+**VirusTotal:** https://www.virustotal.com/gui/file/9646f0ac22a159ce211d880f8d472a02bbe2821bf37278463e2077b609e5cb91?nocache=1

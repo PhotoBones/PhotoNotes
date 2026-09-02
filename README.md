@@ -16,6 +16,8 @@ Get the latest signed APK from **[Releases](https://github.com/PhotoBones/PhotoN
 | 1.2.2 | 02/09/2026 | `c2269a1d81dc638261053854aac4225cd86a660975440c856dd40ed250a75dae` |
 | 1.2.1 | 31/08/2026 | `90fb3d08fe837291b7eeec119517d97199fb279e66ecdd552bc27dfe48e30f28` |
 
+**VirusTotal (latest):** [public report](https://www.virustotal.com/gui/file/9646f0ac22a159ce211d880f8d472a02bbe2821bf37278463e2077b609e5cb91?nocache=1)
+
 ## What it does
 
 - **Your shot** — starter settings from type / scene / light / subject  
