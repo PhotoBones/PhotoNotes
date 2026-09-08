@@ -15,4 +15,4 @@
 
 **SHA-256:** `dc8e4aa7f270629b9bf14b4a99e137d396370e13182c79d85f08aba1c4a480aa`
 
-**VirusTotal:** pending (report coming soon)
+**VirusTotal:** https://www.virustotal.com/gui/file/dc8e4aa7f270629b9bf14b4a99e137d396370e13182c79d85f08aba1c4a480aa?nocache=1
