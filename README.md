@@ -12,11 +12,12 @@ Get the latest signed APK from **[Releases](https://github.com/PhotoBones/PhotoN
 
 | Version | Date | SHA-256 |
 |---------|------|---------|
+| 1.2.4 | 08/09/2026 | `dc8e4aa7f270629b9bf14b4a99e137d396370e13182c79d85f08aba1c4a480aa` |
 | 1.2.3 | 02/09/2026 | `9646f0ac22a159ce211d880f8d472a02bbe2821bf37278463e2077b609e5cb91` |
 | 1.2.2 | 02/09/2026 | `c2269a1d81dc638261053854aac4225cd86a660975440c856dd40ed250a75dae` |
 | 1.2.1 | 31/08/2026 | `90fb3d08fe837291b7eeec119517d97199fb279e66ecdd552bc27dfe48e30f28` |
 
-**VirusTotal (latest):** [public report](https://www.virustotal.com/gui/file/9646f0ac22a159ce211d880f8d472a02bbe2821bf37278463e2077b609e5cb91?nocache=1)
+**VirusTotal (latest):** pending for 1.2.4 (report coming soon)
 
 ## What it does
 
@@ -24,7 +25,7 @@ Get the latest signed APK from **[Releases](https://github.com/PhotoBones/PhotoN
 - **Stories** — real beginner anecdotes with photos (offline)  
 - **Field notes & check list** — save, share, and tick off planned shoots  
 - **Camera presets (C1, C2, C3\*)** — label custom modes on your body  
-- **My gear**, **CSV export**, **PhotoBones** (language, version, contact)
+- **My gear**, **CSV import/export**, **PhotoBones** (language, version, contact)
 
 \* R10: 2 presets; R50/R7: 3.
 
